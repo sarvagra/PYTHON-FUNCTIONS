@@ -4,7 +4,7 @@
 ***-> SETTING UP A DOCSTRING***<BR>
 ***-> DYNAMIC PARAMETER***<BR>
 ***-> GENERATOR FUNCTION***<BR>
-***-> LAMBDA FUNCTION***
+***-> LAMBDA FUNCTION***<br>
 ***-> MAPPING***
 
 
