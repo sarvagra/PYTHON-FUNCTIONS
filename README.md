@@ -5,6 +5,7 @@
 ***-> DYNAMIC PARAMETER***<BR>
 ***-> GENERATOR FUNCTION***<BR>
 ***-> LAMBDA FUNCTION***<br>
-***-> MAPPING***
-
+***-> MAPPING***<br>
+***-> REDUCE FUNCTION***<br>
+***-> FILTER FUNCTION***<br>
 
